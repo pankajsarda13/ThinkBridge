@@ -1,0 +1,24 @@
+* Photo & Signature image is not display properly
+* Date & day display on right corner. We can show update with scrolling.
+* If possible we can show ads in free space
+* on tab, user should get "Required" - mandatory field message
+* state & Country we can display
+* Based on state & Country selection pincode should be display
+* User can only able to select those values which are display in drop down of Load (Watts))
+* Not editable fields which is incorrect:  Registration Fee(Rs),Connection Fee(Rs),Security Deposit(Rs),	Total Charges(Rs)
+* Once click on Grand total load button, Total load value should automatically display, It display only on clicking Hide link
+on expand Total Load (KW)*, Contract Demand (KVA)* value display as zero which is incorrect
+* User not able to select I, the above referred applicant, agree and accept the "Terms and Conditions of Agreement" mentioned herein above.
+* Field "Name of the Licensed Electrical Contractor(LEC)" allow only letters/space/dot(.) , not numbers
+* "Invalid Mobile No." alert display twice for LEC Mobile No untill correct value not entered
+* We can display payment values in Payment Option for simplicity
+* once value get reset under Upload Required Document's if photo and signature invalid/incorrect, user move to top page 
+* Sometimes only user can able to download file - "DOWNLOAD FORMAT OF 'NOTARIZED INDEMNITY BOND OF Rs.500/-"
+* On clicking, Generate OTP only Nearby Reference Consumer No* is display "Required" value and field doesn't accept any value
+Power Supply Address & Land Lord Address - "Required" error message not display for fields present under it
+* After navigation from different connection Type - Mandatory Error get removed
+* Incorrect email id get accepted in Solar Connection type
+* Few Fields accepts incorrect values under Connection Details display for Solar
+* Size & format message for Upload Required Document's not display properly
+* No doc getting displayed on clicking ""
+* Reset All functionality is not working
